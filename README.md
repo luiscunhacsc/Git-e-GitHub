@@ -29,21 +29,6 @@ Aqui vais encontrar materiais cuidadosamente preparados para te guiarem desde os
 - GitHub: Interface, issues, pull requests, wikis, projetos, GitHub Actions, GitHub Pages e integração com Git.
 - Boas práticas de versionamento, colaboração segura e gestão de projetos open source.
 
----
-
-## 📂 Estrutura Atual
-
-```
-/docs
-  |- Tutorial de Git 01.docx
-  |- Tutorial de Git 01.pdf
-  |- Tutorial GitHub 01.docx
-  |- Tutorial GitHub 01.pdf
-/assets
-  |- (imagens ilustrativas, como capas ou diagramas)
-README.md
-```
-
 *(Mais documentos e materiais serão adicionados futuramente!)*
 
 ---
@@ -52,21 +37,6 @@ README.md
 
 > **"Ensinar de forma acessível, envolvente e rigorosa."**  
 > Baseado em princípios de psicologia cognitiva e pedagogia ativa, estes tutoriais procuram maximizar a tua compreensão e retenção de conhecimento, sem nunca sacrificar a profundidade dos conteúdos.
-
----
-
-## 🚀 Próximos Passos
-
-- [ ] Criar projetos de prática para reforçar o conhecimento.
-- [ ] Adicionar simulações de desafios reais de colaboração.
-- [ ] Explorar integrações avançadas com GitHub Actions.
-
----
-
-## 🤝 Como Contribuir
-
-Se quiseres sugerir melhorias, encontrar erros ou propor novos tutoriais relacionados, sê muito bem-vindo a abrir uma **issue** ou a enviar um **pull request**!  
-Vamos crescer esta biblioteca de conhecimento juntos! 💬✨
 
 ---
 
